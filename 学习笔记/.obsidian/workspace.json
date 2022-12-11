@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "6466283ecf098c26",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf0407bd51e647e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853d8678ee4b59fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01内核/001文件系统/procfs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b9ff1af74e1de91",
+    "type": "split",
+    "children": [
+      {
+        "id": "3972202ee889ce48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd24ed8363591923",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4caa2cb3b60c4092",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37e0e6945cff0d5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f07ff4b1d5827f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c1df26eff850bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc9389f24122401",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01内核/001文件系统/procfs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c5d44f98e331fcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01内核/001文件系统/procfs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a72ac7b7a30fab8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f0d022f42e75c38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01内核/001文件系统/procfs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "853d8678ee4b59fb",
+  "lastOpenFiles": []
+}
