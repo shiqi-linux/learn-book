@@ -85,14 +85,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01内核/001文件系统/open与openat的区别.md",
+                "file": "01内核/001文件系统/文件对象file-学习沙龙/open与openat的区别.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "30bbecf585690c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01内核/001文件系统/文件对象file-学习沙龙/ACC_MODE是什么.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01内核/001文件系统/open与openat的区别.md",
+                "file": "01内核/001文件系统/procfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01内核/001文件系统/open与openat的区别.md",
+                "file": "01内核/001文件系统/procfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01内核/001文件系统/open与openat的区别.md"
+                "file": "01内核/001文件系统/procfs.md"
               }
             }
           }
@@ -220,11 +231,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fbafa410f3e81d80",
+  "active": "853d8678ee4b59fb",
   "lastOpenFiles": [
-    "01内核/001文件系统/procfs.md",
-    "02VIM/002nerdtree/nerdtree.md",
+    "01内核/002内核编译/make参数.md",
     "02VIM/001YouCompleteMe/YouCompleteMe.md",
-    "01内核/002内核编译/make参数.md"
+    "02VIM/002nerdtree/nerdtree.md",
+    "02VIM/003cscope/cscope.md",
+    "01内核/001文件系统/procfs.md",
+    "01内核/001文件系统/文件对象file-学习沙龙/open与openat的区别.md",
+    "01内核/001文件系统/文件对象file-学习沙龙/ACC_MODE是什么.md"
   ]
 }

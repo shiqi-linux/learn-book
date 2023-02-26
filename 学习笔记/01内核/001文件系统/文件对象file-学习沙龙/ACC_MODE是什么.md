@@ -1,0 +1,1 @@
+链接：[C语言中的模式宏ACC_MODE文件访问控制以及O_ACCMODE](https://blog.csdn.net/jinking01/article/details/105504850)
