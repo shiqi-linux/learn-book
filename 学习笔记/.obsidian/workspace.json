@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "220ac0c2238fa234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01内核/001文件系统/procfs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbafa410f3e81d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01内核/001文件系统/open与openat的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02VIM/003cscope/cscope.md",
+                "file": "01内核/001文件系统/open与openat的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02VIM/003cscope/cscope.md",
+                "file": "01内核/001文件系统/open与openat的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02VIM/003cscope/cscope.md"
+                "file": "01内核/001文件系统/open与openat的区别.md"
               }
             }
           }
@@ -185,11 +209,22 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1d9d408cdeea29f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fbafa410f3e81d80",
   "lastOpenFiles": [
+    "01内核/001文件系统/procfs.md",
     "02VIM/002nerdtree/nerdtree.md",
     "02VIM/001YouCompleteMe/YouCompleteMe.md",
-    "01内核/002内核编译/make参数.md",
-    "01内核/001文件系统/procfs.md"
+    "01内核/002内核编译/make参数.md"
   ]
 }

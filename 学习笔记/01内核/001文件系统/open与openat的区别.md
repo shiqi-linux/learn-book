@@ -1,0 +1,1 @@
+链接：[openat与open的区别及用法示例](https://www.cnblogs.com/BinBinStory/p/7400993.html)
