@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92cbe1b4a605eaa6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01内核/003内存管理/页高速缓存 - page cache.md",
+                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01内核/003内存管理/页高速缓存 - page cache.md",
+                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01内核/003内存管理/页高速缓存 - page cache.md"
+                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png"
               }
             }
           }
@@ -197,12 +207,18 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9c2e2ca201ffed9d",
+  "active": "92cbe1b4a605eaa6",
   "lastOpenFiles": [
+    "01内核/003内存管理/struct folio.md",
+    "01内核/003内存管理/页高速缓存 - page cache.md",
+    "01内核/003内存管理/材料/add_to_page_cache_lru函数.png",
+    "01内核/003内存管理/材料/find_get_page函数.png",
+    "01内核/003内存管理/材料/基树深度对应的最大索引值和文件的最大长度.png",
+    "01内核/003内存管理/材料/基数.png",
+    "01内核/003内存管理/材料/address_space对象的字段.png",
     "01内核/003内存管理/材料/page中的mapping.png",
     "01内核/003内存管理/材料/inode中的address_space.png",
     "01内核/001文件系统/ubifs/ubifs挂载命令.md",
-    "01内核/003内存管理/页高速缓存 - page cache.md",
     "01内核/003内存管理/材料",
     "01内核/003内存管理",
     "01内核/001文件系统/未命名",
@@ -211,7 +227,6 @@
     "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png",
     "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png.crdownload",
     "01内核/001文件系统/文件对象file-学习沙龙/材料/file数据结构.png",
-    "01内核/001文件系统/文件对象file-学习沙龙/材料/进程与vfs交互.png",
     "01内核/001文件系统/文件对象file-学习沙龙/材料",
     "01内核/001文件系统/文件对象file-学习沙龙/open与openat的区别.md",
     "01内核/001文件系统/文件对象file-学习沙龙/ACC_MODE是什么.md",
