@@ -8,7 +8,7 @@
 attach到mtd：
 
 ```bash
-./ubiattach /dev/ubi_ctrl -m 0
+./ubiattach /dev/ubi_ctrl -m 0 -b 20
 ```
 
 创建卷宗：
@@ -22,4 +22,5 @@ attach到mtd：
 ```bash
 mount -t ubifs /dev/ubi0_0 /mnt/
 ```
+
 

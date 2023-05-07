@@ -8,77 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "853d8678ee4b59fb",
+            "id": "9500fcae2b8a6375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01内核/001文件系统/procfs.md",
+                "file": "01内核/001文件系统/ubifs/beb_rsvd_pebs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dbeede62e43c53a6",
+            "id": "40a8e3618a7f5039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01内核/002内核编译/make参数.md",
+                "file": "02VIM/001YouCompleteMe/YouCompleteMe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d15596f2d4670b68",
+            "id": "665721c079324505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01内核/001文件系统/文件对象file-学习沙龙/open与openat的区别.md",
+                "file": "03调试环境搭建/虚拟机调试环境搭建.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "68252612280cf164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01内核/001文件系统/ubifs/ubifs挂载命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c2e2ca201ffed9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01内核/003内存管理/页高速缓存 - page cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92cbe1b4a605eaa6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png",
+                "file": "03调试环境搭建/虚拟机调试环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png",
+                "file": "03调试环境搭建/虚拟机调试环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01内核/001文件系统/文件对象file-学习沙龙/材料/各个vfs组件的相互关系.png"
+                "file": "03调试环境搭建/虚拟机调试环境搭建.md"
               }
             }
           }
@@ -207,8 +173,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "92cbe1b4a605eaa6",
+  "active": "665721c079324505",
   "lastOpenFiles": [
+    "02VIM/001YouCompleteMe/YouCompleteMe.md",
+    "03调试环境搭建/虚拟机调试环境搭建.md",
+    "03调试环境搭建",
+    "02VIM/未命名",
+    "01内核/001文件系统/ubifs/ubifs挂载命令.md",
+    "01内核/001文件系统/ubifs/beb_rsvd_pebs.md",
     "01内核/003内存管理/struct folio.md",
     "01内核/003内存管理/页高速缓存 - page cache.md",
     "01内核/003内存管理/材料/add_to_page_cache_lru函数.png",
@@ -218,7 +190,6 @@
     "01内核/003内存管理/材料/address_space对象的字段.png",
     "01内核/003内存管理/材料/page中的mapping.png",
     "01内核/003内存管理/材料/inode中的address_space.png",
-    "01内核/001文件系统/ubifs/ubifs挂载命令.md",
     "01内核/003内存管理/材料",
     "01内核/003内存管理",
     "01内核/001文件系统/未命名",
@@ -233,7 +204,6 @@
     "01内核/001文件系统/ubifs",
     "01内核/002内核编译/make参数.md",
     "01内核/001文件系统/procfs.md",
-    "02VIM/001YouCompleteMe/YouCompleteMe.md",
     "02VIM/002nerdtree/nerdtree.md",
     "02VIM/003cscope/cscope.md"
   ]
